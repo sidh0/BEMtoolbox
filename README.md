@@ -1,2 +1,2 @@
 # bemtoolbox
-Redirect notice for BEMtoolbox
+This is a redirect notice for Henriksen, Cumming, & Read (2016), PLoS Computional Biology. The repository is now housed at : https://github.com/sidhenriksen/bemtoolbox
